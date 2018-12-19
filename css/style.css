@@ -9,7 +9,7 @@ a {
 
 .main-header {
 	display: grid;
-    text-align: center; 
+   	text-align: center; 
 	background-color: white;
 	margin: 0px;
 	margin-top:1px;
@@ -17,6 +17,7 @@ a {
 	z-index: 1;
 	position: fixed;
 	text-decoration: none;
+	padding: 600px;
 }
 
 
